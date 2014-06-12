@@ -1,0 +1,41 @@
+2014-06-11 22:30:47,505 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml
+2014-06-11 22:30:50,678 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-junit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml.
+2014-06-11 22:30:53,277 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-junit/src/main/java
+2014-06-11 22:30:53,303 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-junit/src/test/java
+2014-06-11 22:30:53,574 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-junit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml.
+2014-06-11 22:30:55,070 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 7 sec
+2014-06-11 22:30:57,095 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-junit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml.
+2014-06-11 22:30:57,274 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:30:57,274 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-11 22:30:57,278 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:30:57,279 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-11 22:31:29,993 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\pom.xml
+2014-06-11 22:31:30,084 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-mockito:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\pom.xml.
+2014-06-11 22:31:30,248 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-mockito/src/main/java
+2014-06-11 22:31:30,253 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-mockito/src/test/java
+2014-06-11 22:31:30,317 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2014-06-11 22:31:30,905 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-mockito:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\pom.xml.
+2014-06-11 22:31:31,078 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:31,078 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\main\resources
+2014-06-11 22:31:31,081 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:31,082 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\test\resources
+2014-06-11 22:31:31,566 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-mockito:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\pom.xml.
+2014-06-11 22:31:32,165 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:32,165 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\main\resources
+2014-06-11 22:31:32,167 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:32,168 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\test\resources
+2014-06-11 22:31:55,300 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\pom.xml
+2014-06-11 22:31:55,382 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-jmockit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\pom.xml.
+2014-06-11 22:31:55,475 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-jmockit/src/main/java
+2014-06-11 22:31:55,480 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tdd-jmockit/src/test/java
+2014-06-11 22:31:55,534 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2014-06-11 22:31:55,855 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-jmockit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\pom.xml.
+2014-06-11 22:31:55,977 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:55,978 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
+2014-06-11 22:31:55,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:55,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
+2014-06-11 22:31:56,647 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-jmockit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\pom.xml.
+2014-06-11 22:31:57,073 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:57,073 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
+2014-06-11 22:31:57,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-11 22:31:57,079 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
