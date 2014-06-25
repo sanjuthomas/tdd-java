@@ -39,3 +39,187 @@
 2014-06-11 22:31:57,073 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
 2014-06-11 22:31:57,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2014-06-11 22:31:57,079 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
+2014-06-24 20:34:30,634 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-jmockit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\pom.xml.
+2014-06-24 20:34:31,012 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-junit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml.
+2014-06-24 20:34:31,061 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-mockito:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\pom.xml.
+2014-06-24 20:34:38,164 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:38,165 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
+2014-06-24 20:34:38,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:38,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
+2014-06-24 20:34:41,458 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:41,458 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:34:41,461 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:41,461 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:34:41,831 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:41,831 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\main\resources
+2014-06-24 20:34:41,834 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:34:41,834 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\test\resources
+2014-06-24 20:39:00,349 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:39:00,350 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:39:00,352 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:39:00,352 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:40:48,658 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:48,659 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:40:48,662 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:48,662 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:40:51,293 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,294 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
+2014-06-24 20:40:51,297 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,297 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
+2014-06-24 20:40:51,364 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,365 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:40:51,366 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,367 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:40:51,386 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,387 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\main\resources
+2014-06-24 20:40:51,390 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:40:51,390 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\test\resources
+2014-06-24 20:41:00,612 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:00,613 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:41:00,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:00,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:41:08,033 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:08,034 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:41:08,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:08,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:41:12,572 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:12,572 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:41:12,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:12,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:41:17,647 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:17,648 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:41:17,650 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:17,650 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:41:31,054 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:31,055 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:41:31,056 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:41:31,057 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:42:12,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:42:12,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:42:12,267 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:42:12,267 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:42:17,333 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:42:17,333 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:42:17,335 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:42:17,335 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:43:00,202 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:43:00,202 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:43:00,206 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:43:00,206 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:44:31,228 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:44:31,229 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:44:31,231 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:44:31,232 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:45:04,153 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:45:04,154 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:45:04,156 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:45:04,157 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:45:27,243 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:45:27,244 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:45:27,246 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:45:27,247 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:47:02,337 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:02,338 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:47:02,341 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:02,342 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:47:13,060 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:13,060 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:47:13,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:13,063 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:47:33,938 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:33,939 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:47:33,941 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:47:33,941 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:49:05,733 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:49:05,734 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:49:05,736 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:49:05,737 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:50:29,794 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:50:29,795 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:50:29,797 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:50:29,797 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:50:53,572 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:50:53,573 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:50:53,575 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:50:53,575 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:51:13,000 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:13,001 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:51:13,003 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:13,004 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:51:38,108 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:38,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:51:38,110 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:38,111 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:51:41,294 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:41,294 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:51:41,296 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:41,297 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:51:44,739 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:44,743 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:51:44,745 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:44,746 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:51:52,238 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:52,238 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:51:52,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:51:52,242 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 20:53:20,126 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:53:20,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 20:53:20,130 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 20:53:20,130 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:05:11,726 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ourownjava:tdd-junit:0.0.1-SNAPSHOT @ C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\pom.xml.
+2014-06-24 21:05:12,018 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:05:12,019 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:05:12,022 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:05:12,022 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:06:07,161 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:06:07,161 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:06:07,163 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:06:07,163 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:08:58,776 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:08:58,777 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:08:58,780 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:08:58,780 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:10:37,100 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:10:37,100 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:10:37,103 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:10:37,103 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:12:54,268 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,269 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\main\resources
+2014-06-24 21:12:54,271 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,272 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-jmockit\src\test\resources
+2014-06-24 21:12:54,293 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,293 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:12:54,295 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,295 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:12:54,311 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,311 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\main\resources
+2014-06-24 21:12:54,313 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:12:54,313 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-mockito\src\test\resources
+2014-06-24 21:13:09,090 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:13:09,090 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:13:09,094 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:13:09,094 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:13:22,536 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:13:22,537 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:13:22,539 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:13:22,540 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:14:08,003 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:08,003 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:14:08,005 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:08,006 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:14:30,461 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:30,462 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:14:30,465 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:30,465 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:14:44,661 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:44,662 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:14:44,664 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:44,664 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:14:50,366 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:50,367 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:14:50,370 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:14:50,370 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources
+2014-06-24 21:15:08,534 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:15:08,535 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\main\resources
+2014-06-24 21:15:08,536 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-06-24 21:15:08,536 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thosan\Documents\GitHub\tdd-java\tdd-junit\src\test\resources

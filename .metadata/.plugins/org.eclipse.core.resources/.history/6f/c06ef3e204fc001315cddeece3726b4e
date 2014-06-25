@@ -1,0 +1,16 @@
+package com.ourownjava.unit.under.test;
+
+/**
+ * 
+ * @author Sanju Thomas
+ *
+ */
+public class AppleServiceTest {
+	
+	private AppleService appleService;
+	
+	@Before
+	public void setUp(){
+		
+	}
+}

@@ -1,0 +1,5 @@
+package com.ourownjava.model;
+
+public class Money {
+
+}
