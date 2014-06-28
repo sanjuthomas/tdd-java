@@ -369,3 +369,65 @@ Caused by: org.eclipse.jgit.errors.UnmergedPathException: Unmerged path: .metada
 	at org.eclipse.jgit.dircache.DirCache.writeTree(DirCache.java:917)
 	at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:210)
 	... 8 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2014-06-27 23:51:54.059
+!MESSAGE Committing failed
+!STACK 1
+org.eclipse.team.core.TeamException: An internal error occurred
+	at org.eclipse.egit.core.op.CommitOperation.commit(CommitOperation.java:238)
+	at org.eclipse.egit.core.op.CommitOperation.access$5(CommitOperation.java:225)
+	at org.eclipse.egit.core.op.CommitOperation$1.run(CommitOperation.java:190)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.egit.core.op.CommitOperation.execute(CommitOperation.java:200)
+	at org.eclipse.egit.ui.internal.commit.CommitJob.run(CommitJob.java:94)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.jgit.api.errors.UnmergedPathsException: Repository contains unmerged paths
+	at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:279)
+	at org.eclipse.egit.core.op.CommitOperation.commit(CommitOperation.java:236)
+	... 7 more
+Caused by: org.eclipse.jgit.errors.UnmergedPathException: Unmerged path: .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:357)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCache.writeTree(DirCache.java:917)
+	at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:210)
+	... 8 more
+!SUBENTRY 1 org.eclipse.team.core 4 0 2014-06-27 23:51:54.060
+!MESSAGE An internal error occurred
+!STACK 0
+org.eclipse.jgit.api.errors.UnmergedPathsException: Repository contains unmerged paths
+	at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:279)
+	at org.eclipse.egit.core.op.CommitOperation.commit(CommitOperation.java:236)
+	at org.eclipse.egit.core.op.CommitOperation.access$5(CommitOperation.java:225)
+	at org.eclipse.egit.core.op.CommitOperation$1.run(CommitOperation.java:190)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.egit.core.op.CommitOperation.execute(CommitOperation.java:200)
+	at org.eclipse.egit.ui.internal.commit.CommitJob.run(CommitJob.java:94)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.jgit.errors.UnmergedPathException: Unmerged path: .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:357)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCacheTree.computeSize(DirCacheTree.java:364)
+	at org.eclipse.jgit.dircache.DirCacheTree.writeTree(DirCacheTree.java:318)
+	at org.eclipse.jgit.dircache.DirCache.writeTree(DirCache.java:917)
+	at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:210)
+	... 8 more
