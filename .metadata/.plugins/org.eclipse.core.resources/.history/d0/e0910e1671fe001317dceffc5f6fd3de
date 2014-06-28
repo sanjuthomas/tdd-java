@@ -1,0 +1,29 @@
+package com.ourownjava.unit.under.test;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.Properties;
+
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class PropertyLoaderTest {
+
+	private Properties properties;
+	
+	@BeforeClass
+	public void initPropertyFile() throws FileNotFoundException{
+		properties = new Properties().load(new FileInputStream(new File("test.properties")));
+	}
+	
+	@Test
+	public void shouldGetValueForKey1(){
+		
+	}
+	
+	@Test
+	public void shouldGetValueForKey2(){
+		
+	}
+}

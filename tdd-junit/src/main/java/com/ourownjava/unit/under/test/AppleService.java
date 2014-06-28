@@ -3,6 +3,7 @@ package com.ourownjava.unit.under.test;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.ourownjava.exception.NoAppleException;
 import com.ourownjava.model.Apple;
 
 /**
@@ -12,7 +13,12 @@ import com.ourownjava.model.Apple;
  */
 public class AppleService {
 	
-	public List<Apple> getApple(final Integer numberOfApples){
+	private static final Integer MAX_APPLE_LOT = 100;
+	
+	public List<Apple> getApple(final Integer numberOfApples) throws NoAppleException{
+		if(numberOfApples > MAX_APPLE_LOT){
+			throw new NoAppleException();
+		}
 		final List<Apple> apples = new ArrayList<Apple>();
 		for(int i = 0; i < numberOfApples; i++){
 			final Apple apple = new Apple();

@@ -1,0 +1,9 @@
+package com.ourownjava.exception;
+
+public class NoAppleException extends Exception {
+	
+	public NoAppleException(){
+		super("Your eyes doesn't meet the stomach");
+	}
+
+}

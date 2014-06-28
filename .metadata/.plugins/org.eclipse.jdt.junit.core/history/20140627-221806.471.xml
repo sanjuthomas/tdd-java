@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppleServiceTest" project="tdd-junit" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.ourownjava.unit.under.test.AppleServiceTest" time="0.0">
+    <testcase name="shouldGet100ApplesGoodAssertion" classname="com.ourownjava.unit.under.test.AppleServiceTest" time="0.0"/>
+    <testcase name="shouldGet100ApplesBadAssertion1" classname="com.ourownjava.unit.under.test.AppleServiceTest" time="0.0"/>
+    <testcase name="shouldGetNoAppleException" classname="com.ourownjava.unit.under.test.AppleServiceTest" time="0.0"/>
+    <testcase name="shouldGet100ApplesBadAssertion" classname="com.ourownjava.unit.under.test.AppleServiceTest" time="0.0"/>
+  </testsuite>
+</testrun>

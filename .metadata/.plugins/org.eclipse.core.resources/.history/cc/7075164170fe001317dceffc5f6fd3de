@@ -1,0 +1,21 @@
+package com.ourownjava.unit.under.test;
+
+import java.util.Properties;
+
+import org.junit.Before;
+import org.junit.BeforeClass;
+
+public class PropertyLoaderTest {
+
+	private Properties properties;
+	
+	@BeforeClass
+	public void initPropertyFile(){
+		
+	}
+	
+	@Test
+	public void shouldGetValueForKey1(){
+		
+	}
+}

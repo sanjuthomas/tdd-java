@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PropertyLoaderTest" project="tdd-junit" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.ourownjava.unit.under.test.PropertyLoaderTest" time="0.0">
+    <testcase name="shouldGetValueForKey1" classname="com.ourownjava.unit.under.test.PropertyLoaderTest" time="0.0"/>
+    <testcase name="shouldGetValueForKey2" classname="com.ourownjava.unit.under.test.PropertyLoaderTest" time="0.0"/>
+  </testsuite>
+</testrun>
