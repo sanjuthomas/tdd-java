@@ -7,7 +7,7 @@ import java.util.List;
  * @author Sanju Thomas
  *
  */
-public class ClassWithStaicMethods {
+public class ClassWithStaticMethods {
 	
 	private static void privateStaticBehavior(){
 		throw new RuntimeException("I am a private static method. Why did you call me?");
