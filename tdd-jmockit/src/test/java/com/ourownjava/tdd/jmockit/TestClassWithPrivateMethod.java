@@ -28,7 +28,7 @@ public class TestClassWithPrivateMethod {
 	
 	@Test(expected = RuntimeException.class)
 	public void shouldInvokePrivateMethod(){
-		Deencapsulation.invoke(classWithPrivateMethod, "privateMethod", null);
+		Deencapsulation.invoke(classWithPrivateMethod, "privateMethod", new Object[]{});
 	}
 	
 	@Test
