@@ -16,6 +16,12 @@ import org.junit.Test;
 import com.ourownjava.tdd.mockit.ShoutingManager;
 import com.ourownjava.tdd.mockit.UglyWordService;
 
+/**
+ * 
+ * @author Sanju Thomas
+ *
+ */
+
 public class TestShoutingManager {
 	
 	private String [] goodWords = new String [] {"You are so nice", "This is an excellent test case", 
