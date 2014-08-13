@@ -10,6 +10,11 @@ import org.junit.Test;
 import com.ourownjava.tdd.mockit.UglyWordUtility;
 import com.ourownjava.tdd.mockit.YellingManager;
 
+/**
+ * 
+ * @author Sanju Thomas
+ *
+ */
 public class TestYellingManager {
 
 	private YellingManager yellingManager;
