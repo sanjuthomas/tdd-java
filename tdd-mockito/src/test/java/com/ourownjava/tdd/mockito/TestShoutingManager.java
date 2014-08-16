@@ -27,7 +27,6 @@ public class TestShoutingManager {
 	
 	@Before
 	public void setUp(){
-		initMocks(this);
 		when(dirtyWordService.getADirtyWord()).thenReturn("You are such a nice persion");
 	}
 	
