@@ -17,12 +17,12 @@ import org.mockito.runners.MockitoJUnitRunner;
  */
 @RunWith(MockitoJUnitRunner.class)
 public class TestShoutingManager {
-   
-	@InjectMocks
-	private ShoutingManager shoutingManager;
 	
 	@Mock
 	private DirtyWordService dirtyWordService;
+	
+	@InjectMocks
+	private ShoutingManager shoutingManager;
 	
 	//we are mocking the dirtyWordService of the shoutingManager
 	//whenever getADirtyWord() method is called on dirtyWordService 
