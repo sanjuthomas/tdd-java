@@ -24,6 +24,10 @@ public class TestShoutingManager {
 	@Mock
 	private DirtyWordService dirtyWordService;
 	
+	//we are mocking the dirtyWordService of the shoutingManager
+	//dirtyWordService service will give return "You are such a nice person" 
+	//whenever getADirtyWord() method is called. We are smart developers..
+	//The dump manager will now start talking good words.
 	@Before
 	public void setUp(){
 		when(dirtyWordService.getADirtyWord()).thenReturn("You are such a nice persion");
