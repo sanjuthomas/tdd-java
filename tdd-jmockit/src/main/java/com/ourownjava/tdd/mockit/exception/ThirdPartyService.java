@@ -8,7 +8,7 @@ import java.rmi.RemoteException;
  * @author Sanju Thomas
  *
  */
-public interface ThridPartyService {
+public interface ThirdPartyService {
 	
 	public void save(final OutputStream outputStream) throws RemoteException;
 
