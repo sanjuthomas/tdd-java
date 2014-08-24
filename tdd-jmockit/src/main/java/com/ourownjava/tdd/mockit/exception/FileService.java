@@ -12,11 +12,11 @@ public class FileService {
 
 	private ThirdPartyService thirdPartyService;
 	
-	public void saveInRemoteRepository(final OutputStream outputStream) throws RemoteSaveFailedExpception{
+	public void saveInRemoteRepository(final OutputStream outputStream) throws RemoteSaveFailedException{
 		try {
 			thirdPartyService.save(outputStream);
 		} catch (RemoteException remoteException) {
-			throw new RemoteSaveFailedExpception("Received Remote Exception from ThirdPartyService", remoteException);
+			throw new RemoteSaveFailedException("Received Remote Exception from ThirdPartyService", remoteException);
 		}
 	}
 	
