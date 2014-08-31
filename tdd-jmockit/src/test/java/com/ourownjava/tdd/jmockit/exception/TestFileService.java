@@ -18,6 +18,11 @@ import com.ourownjava.tdd.mockit.exception.FileService;
 import com.ourownjava.tdd.mockit.exception.RemoteSaveFailedException;
 import com.ourownjava.tdd.mockit.exception.ThirdPartyService;
 
+/**
+ * 
+ * @author Sanju Thomas
+ *
+ */
 public class TestFileService {
 	
 	private FileService fileService;
