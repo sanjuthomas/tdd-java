@@ -1,4 +1,5 @@
-package com.ourownjava.tdd.mockit;
+package com.ourownjava.tdd.jmockit;
+
 import static org.junit.Assert.assertEquals;
 
 import javax.naming.AuthenticationException;
@@ -10,6 +11,10 @@ import mockit.Verifications;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.ourownjava.tdd.mockit.AuthenticationManager;
+import com.ourownjava.tdd.mockit.Principal;
+import com.ourownjava.tdd.mockit.ThridPartyAuthenticationService;
 
 
 /**
