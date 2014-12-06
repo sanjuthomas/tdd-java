@@ -11,6 +11,7 @@ public class SubClass extends BaseClass{
 	
 	public SubClass(final String name) {
 		super(name);
+		this.name = name;
 	}
 
 	public String getName() {
@@ -20,5 +21,4 @@ public class SubClass extends BaseClass{
 	public void setName(final String name) {
 		this.name = name;
 	}
-	
 }
