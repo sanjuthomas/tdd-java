@@ -1,6 +1,9 @@
 package com.ourownjava.tdd.jmockit;
 
-import mockit.Tested;
+import static org.junit.Assert.assertEquals;
+import mockit.Mocked;
+
+import org.junit.Test;
 
 /**
  * 
@@ -9,10 +12,12 @@ import mockit.Tested;
  */
 public class TestSubClass {
 
-	@Tested
 	private SubClass subClass;
 	
-	
-	
+	@Test
+	public void shouldSetNameUsingConstructorInject(@Mocked final BaseClass baseClass){
+		subClass = new SubClass("name");
+		assertEquals("name", subClass.getName());
+	}	
 	
 }
