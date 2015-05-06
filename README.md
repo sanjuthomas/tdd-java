@@ -9,4 +9,3 @@ This repository contains sample code for junit, mockito and jmockit. I would eve
 http://testdrivendevelopment.ourownjava.com/
 
 
-kaushalendra.c@mphasis.com
